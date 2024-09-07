@@ -55,3 +55,7 @@ Customize the CSV file format or location if needed.
 ## Disclaimer
 
 This project may not be suitable for real-world applications due to factors like lighting variations, occlusions, and potential performance limitations.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
